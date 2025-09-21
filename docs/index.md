@@ -7,7 +7,7 @@ hero:
   text: "2223333"
   tagline: 天空真白...我是认真的(确信)
   image:
-    src: /logo.jpg
+    src: /logo.webp
     alt: VitePress
   actions:
     - theme: brand
@@ -20,4 +20,5 @@ hero:
 features:
   - title: 简介
     details: 我的个人介绍
+    link: /Page/about
 ---
